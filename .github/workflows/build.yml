@@ -28,9 +28,10 @@ jobs:
         run: npm install
 
       - name: SonarCloud Scan - Frontend
-        uses: SonarSource/sonarcloud-github-action@master
+        uses: SonarSource/sonarqube-scan-action@v5.0.0
         with:
           projectBaseDir: ./frontend
+          args: -Dsonar.host.url=https://sonarcloud.io
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
@@ -126,8 +127,9 @@ jobs:
         run: npm install
 
       - name: SonarCloud Scan - AI Server
-        uses: SonarSource/sonarcloud-github-action@master
+        uses: SonarSource/sonarqube-scan-action@v5.0.0
         with:
           projectBaseDir: ./ai-server
+          args: -Dsonar.host.url=https://sonarcloud.io
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
