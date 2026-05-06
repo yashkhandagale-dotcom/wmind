@@ -1,0 +1,31 @@
+﻿C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\AlertController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\AssetHierarchyController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\MappingController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\NotificationsController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\ReportsController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\TelemetryTestController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Controllers\WeatherForecastController.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Extesnion\ServiceExtesnion.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Program.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\WeatherForecast.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\obj\Debug\net9.0\Api.GlobalUsings.g.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\obj\Debug\net9.0\Api.AssemblyInfo.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\obj\Debug\net9.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\appsettings.Development.json
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\appsettings.json
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Api.http
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_108bd20c-f857-49f2-9a85-1dedd6f5b73f_20251218_071001.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_20251218_094403.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_20251219_043930.csv
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1218\_102522.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1218\_122122.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_042343.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_042530.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_042629.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_050402.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_050409.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_051656.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_052233.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Reports\Report_Tank B_2025\1219\_061447.xlsx
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Api\Properties\launchSettings.json

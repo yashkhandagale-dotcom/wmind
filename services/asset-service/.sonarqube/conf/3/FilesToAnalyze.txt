@@ -1,0 +1,12 @@
+﻿C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\Fixtures\DbContextFixture.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\Services\AssetDeleteTests.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\Services\AssetInsertTests.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\Services\AssetMappingServiceTests.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\Services\AssetReadTests.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\Services\AssetUpdateTests.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\tests\TataPlantAsset.Application.Tests\TestData\AssetTestData.cs
+C:\Users\Yash\.nuget\packages\microsoft.net.test.sdk\17.12.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Yash\.nuget\packages\microsoft.testplatform.testhost\17.12.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\Yash\.nuget\packages\microsoft.testplatform.testhost\17.12.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\Yash\.nuget\packages\xunit.runner.visualstudio\3.1.5\build\net8.0\xunit.abstractions.dll
+C:\Users\Yash\.nuget\packages\xunit.runner.visualstudio\3.1.5\build\net8.0\xunit.runner.visualstudio.testadapter.dll

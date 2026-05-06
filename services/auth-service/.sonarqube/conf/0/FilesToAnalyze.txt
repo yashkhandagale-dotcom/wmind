@@ -1,0 +1,6 @@
+﻿C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Domain\Entities\OAuthUser.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Domain\Entities\User.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Domain\Entities\UserOtp.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Domain\Interface\IOAuthUserRepository.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Domain\Interface\IUserOtpRepository.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Domain\Interface\IUserRepository.cs

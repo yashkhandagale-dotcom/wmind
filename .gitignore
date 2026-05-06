@@ -1,0 +1,62 @@
+# =====================
+# Environment files
+# =====================
+.env
+.env.*
+!.env.example
+
+# =====================
+# Docker volumes / runtime data
+# =====================
+
+**/volumes/
+**/storage/
+
+# =====================
+# .NET
+# =====================
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# =====================
+# Node / Frontend
+# =====================
+**/node_modules/
+**/dist/
+**/.vite/
+npm-debug.log*
+yarn-error.log*
+
+# =====================
+# Logs
+# =====================
+*/log
+**.log
+*/logs
+**/logs
+/logs
+
+# =====================
+# OS / IDE
+# =====================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =====================
+# Python (ai-server)
+# =====================
+__pycache__/
+*.pyc
+.venv/
+
+# =====================
+# SonarQube
+# =====================
+**/.scannerwork/
+**/.sonarqube/
+sonar-project.properties
+**/TestReport/

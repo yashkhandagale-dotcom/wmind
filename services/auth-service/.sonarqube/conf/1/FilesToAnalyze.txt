@@ -1,0 +1,12 @@
+﻿C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\ApiLogDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\CreateUserDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\LoginDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\OAuthUserDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\OtpDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\RoleUpdateDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\UpdateUserDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Dtos\UserDto.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Interface\IEamilService.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Interface\IUserService.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\Mapping\MappingProfile.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Application\UseCases\UserService.cs

@@ -1,0 +1,6 @@
+projectKey=wMind-AI-Server
+serverUrl=http://localhost:9000
+serverVersion=26.4.0.121862
+dashboardUrl=http://localhost:9000/dashboard?id=wMind-AI-Server
+ceTaskId=d22fb2fa-7994-4df0-a819-48027911e9b1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d22fb2fa-7994-4df0-a819-48027911e9b1

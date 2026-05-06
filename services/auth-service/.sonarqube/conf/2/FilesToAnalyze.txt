@@ -1,0 +1,10 @@
+﻿C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Implementation\EmailService.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Implementation\OAuthUserRepository.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Implementation\UserOtpRepository.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Implementation\UserRepository.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Migrations\20251221132656_InitialCreate.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Migrations\20251221132656_InitialCreate.Designer.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Migrations\UserDbContextModelSnapshot.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Persistance\Configuration\UserConfiguration.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Persistance\DbContexts\UserDbContext.cs
+C:\Users\Yash\Desktop\Tmind\services\auth-service\AuthMicroservice.Infrastructure\Persistance\seeding\DefaultAsset.cs

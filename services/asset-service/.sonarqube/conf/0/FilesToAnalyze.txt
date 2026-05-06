@@ -1,0 +1,12 @@
+﻿C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Class1.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\Alert.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\AlertAnalysis.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\Asset.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\AssetConfiguration.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\AssetSignalDeviceMapping.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\Notification.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\NotificationRecipient.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\ReportRequest.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\Signal.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\SignalTypes.cs
+C:\Users\Yash\Desktop\Tmind\services\asset-service\Domain\Entities\User.cs
